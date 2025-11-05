@@ -31,7 +31,8 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 
 2. Click **File → New STM32 Project**.
    <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/47daf290-6619-4cda-9528-ee568b2301f1" />
-   <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/f28abb51-53fe-4854-9217-30eb85701bb4" />
+   <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/2d6c9c22-50ba-475a-9536-e7b535877bff" />
+
 
 3. Select the **target microcontroller** or board and click **Next**.
    <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/f93d88b6-cd7f-49db-84de-351f9b116488" />
