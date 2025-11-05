@@ -35,7 +35,8 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 
 
 3. Select the **target microcontroller** or board and click **Next**.
-   <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/f93d88b6-cd7f-49db-84de-351f9b116488" />
+   <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/da13807e-1552-4135-9a6a-dfc87ec75ff8" />
+
 
 
 
