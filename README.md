@@ -73,7 +73,7 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
     
 ---
 
-### 💻 **Program**
+### PROGRAM
 
 
 ```c
