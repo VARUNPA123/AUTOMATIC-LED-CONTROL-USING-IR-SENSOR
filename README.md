@@ -53,7 +53,8 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 
  
 8. Edit the generated main program as required.
-   <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/05b39060-35d6-420d-9f4d-8721439bd82f" />
+   <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/aef7277b-4dc8-4ae5-b218-69ae6855dd95" />
+
 <img width="1104" height="621" alt="image" src="https://github.com/user-attachments/assets/2ec55709-a45f-4e6e-8738-6aa94138eab1" />
 
 9. Click **Project → Build All**.
