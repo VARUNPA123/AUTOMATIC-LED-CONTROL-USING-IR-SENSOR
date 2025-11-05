@@ -40,7 +40,8 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 
 
 5. The corresponding `.ioc` file will be generated automatically.
-  <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/8900847c-6745-43e2-9ecf-2e66877fdc49" />
+   <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/d5e7658e-4beb-497b-a218-89c23d309c5a" />
+
 
 6. Configure the pins as **GPIO (Input/Output)**, **USART**, etc. as needed.
    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/acc4f1c4-5e33-431b-8a76-3b102016baa6" />
