@@ -62,7 +62,8 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 
 
 10. Link the **HEX file** using the post-build process.
-    <img width="1053" height="465" alt="image" src="https://github.com/user-attachments/assets/478187a0-0ee6-4c50-9cac-c3b5ee18521b" />
+    <img width="957" height="335" alt="image" src="https://github.com/user-attachments/assets/aed8665c-85ca-44df-aff6-16beba8ce586" />
+
 
 11. Click **Debug** and connect the **STM Nucleo Board**.
     <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/f72fff44-6073-4ae4-aa78-0da455df9af1" />
