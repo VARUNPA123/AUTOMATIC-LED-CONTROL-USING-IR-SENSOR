@@ -2,16 +2,12 @@
 ##  AIM
 To design and implement a system using the **STM32 microcontroller** where an LED automatically turns ON or OFF based on the input from an **IR sensor**.
 
----
-
 ##  Components Required
 - STM32 Nucleo or Discovery Board (e.g., **Nucleo-G071RB**)
 - IR Sensor Module
 - LED (5mm Green or any color)
 - Jumper wires
 - Breadboard
-
----
 
 ##  Theory
 An **IR sensor** detects the presence of an object by emitting and receiving infrared light.
@@ -23,6 +19,7 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 ### Microcontroller Response
 - If **IR output = LOW** → **LED ON**
 - If **IR output = HIGH** → **LED OFF**
+
 ### **Procedure**
 
 1. Open **STM32CubeIDE**.
@@ -31,6 +28,7 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 
 2. Click **File → New STM32 Project**.
    <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/47daf290-6619-4cda-9528-ee568b2301f1" />
+   ---
    <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/2d6c9c22-50ba-475a-9536-e7b535877bff" />
 
 
@@ -41,7 +39,9 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 
 
 4. Name the project.
-   <img width="533" height="588" alt="image" src="https://github.com/user-attachments/assets/63de2bab-69d4-4cb9-8db6-1b57adff9878" />
+
+   <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/bba9aed5-f8d4-4100-b29b-7556b8c488ef" />
+
 
 5. The corresponding `.ioc` file will be generated automatically.
   <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/8900847c-6745-43e2-9ecf-2e66877fdc49" />
