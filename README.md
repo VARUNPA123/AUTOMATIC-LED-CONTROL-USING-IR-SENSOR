@@ -44,8 +44,9 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 
 
 6. Configure the pins as **GPIO (Input/Output)**, **USART**, etc. as needed.
-   <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/acc4f1c4-5e33-431b-8a76-3b102016baa6" />
-<img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/b7abcd80-797d-451f-a7c3-23f303822423" />
+   <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/2a7c2acc-871c-4d57-a70e-bb3fc42acaae" />
+   <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/8e1789f9-a3f0-4ed5-ace2-9810e94c3763" />
+
 
 7. Save the configuration (`Ctrl + S`) – the base C program will be generated automatically.
    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/dbf4b205-5db9-4e9b-8150-94f441c8b116" />
