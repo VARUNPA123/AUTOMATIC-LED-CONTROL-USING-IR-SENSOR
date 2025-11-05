@@ -11,17 +11,14 @@ To design and implement a system using the **STM32 microcontroller** where an LE
 
 ##  THEORY
 An **IR sensor** detects the presence of an object by emitting and receiving infrared light.
-
 ### IR Sensor Behavior
 - When an **object is detected**, the IR sensor output goes **LOW (0V)**.
 - When **no object is detected**, the output stays **HIGH (3.3V)**.
-
 ### Microcontroller Response
 - If **IR output = LOW** → **LED ON**
 - If **IR output = HIGH** → **LED OFF**
 
 ##   PROCEDURE
-
 1. Open **STM32CubeIDE**.
    <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/bdd27708-fae6-4d42-94c8-afc8ae18ef0c" />
 
