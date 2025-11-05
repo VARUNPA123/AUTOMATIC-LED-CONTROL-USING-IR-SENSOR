@@ -58,7 +58,8 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 
 
 9. Click **Project → Build All**.
-    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/264cd0a8-3e96-4668-822e-838ecfafc527" />
+   <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/e56324da-0b96-4c5a-a73f-ab656823f07b" />
+
 
 10. Link the **HEX file** using the post-build process.
     <img width="1053" height="465" alt="image" src="https://github.com/user-attachments/assets/478187a0-0ee6-4c50-9cac-c3b5ee18521b" />
