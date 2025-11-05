@@ -49,7 +49,8 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 
 
 7. Save the configuration (`Ctrl + S`) – the base C program will be generated automatically.
-   <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/dbf4b205-5db9-4e9b-8150-94f441c8b116" />
+   <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/79e39179-af5a-4c2f-8509-19bd899a29a1" />
+
  
 8. Edit the generated main program as required.
    <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/05b39060-35d6-420d-9f4d-8721439bd82f" />
