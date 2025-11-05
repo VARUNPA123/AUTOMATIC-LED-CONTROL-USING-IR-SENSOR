@@ -66,7 +66,8 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 
 
 11. Click **Debug** and connect the **STM Nucleo Board**.
-    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/f72fff44-6073-4ae4-aa78-0da455df9af1" />
+    <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/7e1ff228-5ac3-447a-92a4-9e9a7f16b338" />
+
 
 13. Click **Run** to execute the program.
     
